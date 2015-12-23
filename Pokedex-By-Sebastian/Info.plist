@@ -47,5 +47,12 @@
 	<array>
 		<string>Pokemon Solid.ttf</string>
 	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key></key>
+	<string></string>
 </dict>
 </plist>
